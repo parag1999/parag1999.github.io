@@ -78,4 +78,21 @@
       }
     }
   }
+  .unord-style{
+    text-align: left;
+    font-size: large;
+  }
+  .badge-style{
+    background-color: $white-color;
+    color: $primary-color;
+    margin-bottom: 1rem;
+    font-size: small;
+  }
+
+  .skills-title{
+    font-size: large;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-decoration: underline;
+  }
 }
