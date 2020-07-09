@@ -18,7 +18,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a Fourth Year Compuer Engineering student with an interest and adequate skills in the domain of Web Devlopment and Machine learning. I love working with new technologies and take on challenging projects.',
+    'I am a Fourth Year Computer Engineering student with an interest and adequate skills in the domain of Web Development and Machine learning. I love working with new technologies and take on challenging projects.',
   resume: 'https://drive.google.com/file/d/1SM-F699NJWvlSimOwjaMoN4_chAXmzjs/view?usp=sharing',
 };
 
@@ -28,7 +28,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'Project Finder',
     info:
-      'Project Finder is an application that acts as a medium of communication between the students regarding their extra-curricular activities like open-source projects, hackathons etc and helps students to connect with each other.',
+      'Project Finder is an application that acts as a medium of communication between the students regarding their extra-curricular activities like open-source projects, hackathons, etc, and helps students to connect.',
     info2: 'React, Node Js, Hasura and GraphQl',
     repo: 'https://github.com/parag1999/Project-Finder',
   },
@@ -36,7 +36,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'College Event Manager',
     info:
-      'An app made for college which automatically generates report pdf of the events conducted and automatically sends an email to the respected authority and also has features like event scheduling and option for generating a monthly excel file.',
+      'An app made for college which automatically generates report pdf of the events conducted and automatically sends an email to the respected authority and also has features like event scheduling and an option for generating a monthly excel file.',
     info2: 'React, Django and DRF',
     repo: 'https://github.com/parag1999/college-event-manager',
   },
@@ -44,7 +44,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'Attention Span Checker',
     info:
-      "A portal to infer student's attention based off the facial features captured during a live video conference or while watching a course video and using it to make the lectures and content more engaging and interesting",
+      "A portal to infer student's attention based on the facial features captured during a live video conference or while watching a course video and using it to make the lectures and content more engaging and interesting.",
     info2: 'OpenCV, DRF, Django, WebRTC, HTML, CSS',
     repo: 'https://github.com/parag1999/sih-2020-qualification-hackathon',
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'E-Yantra Nutty Squirrel',
     info:
-      "eYantra Robotics competition: Built a line following, color sensing bot with a picking and releasing mechanism using Atmega256 which traversed using Djikstra's algorithm",
+      "eYantra Robotics competition: Built a line following, color sensing bot with picking and releasing mechanism using Atmega256 which traversed using Djikstra's algorithm",
     info2: 'Embedded C',
     repo: 'https://github.com/parag1999/E-Yantra2018-semifinals',
   },
