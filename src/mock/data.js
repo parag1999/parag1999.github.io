@@ -52,7 +52,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'E-Yantra Nutty Squirrel',
     info:
-      "eYantra Robotics competition: Built a line following, color sensing bot with picking and releasing mechanism using Atmega256 which traversed using Djikstra's algorithm",
+      "eYantra Robotics competition: Built a line following, color sensing bot with picking and releasing mechanism using Atmega256 which traversed using Djikstra's algorithm.",
     info2: 'Embedded C',
     repo: 'https://github.com/parag1999/E-Yantra2018-semifinals',
   },
@@ -76,7 +76,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'Gender recognition by voice',
     info:
-      'In this project, the focus is on training computers to identify the gender based on input of acoustic attributes using various Machine Learning algorithms like SVM, Random Forest Classifier, Gradient Boosting and Logistic Regression and get the best results',
+      'In this project, the focus is on training computers to identify the gender based on the input of acoustic attributes using various Machine Learning algorithms like SVM, Random Forest Classifier, Gradient Boosting, and Logistic Regression and get the best results.',
     info2: 'Scikit learn, Pandas, Matplotlib',
     repo: 'https://github.com/parag1999/Gender-Classification-using-voice',
   },
@@ -84,7 +84,7 @@ export const projectsData = [
     id: uuidv1(),
     title: 'Interview helper',
     info:
-      'A portal where students who are preparing for vivas and interview can go through all sorts of question and videos provided by teachers and generate custom docs of their notes ',
+      'A portal where students who are preparing for vivas and interviews can go through all sorts of questions and videos provided by teachers and generate custom docs of their notes.',
     info2: 'Nodejs-ExpressJs, MYSQL, HTML, CSS',
     repo: 'https://github.com/parag1999/Mini-project-Interview-helper',
   },
