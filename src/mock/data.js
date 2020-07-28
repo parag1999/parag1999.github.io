@@ -19,7 +19,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'I am a Fourth Year Computer Engineering student with an interest and adequate skills in the domain of Web Development and Machine learning. I love working with new technologies and take on challenging projects.',
-  resume: 'https://drive.google.com/file/d/1SM-F699NJWvlSimOwjaMoN4_chAXmzjs/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1LPKnuvl3VO7GnxCpBfXSxFd98TDpxzRJ/view?usp=sharing',
 };
 
 // PROJECTS DATA
