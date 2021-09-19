@@ -18,8 +18,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a Fourth Year Computer Engineering student with an interest and adequate skills in the domain of Web Development and Machine learning. I love working with new technologies and take on challenging projects.',
-  resume: 'https://drive.google.com/file/d/18aOkASSA9QfxwTN1h8GEyRj7B9x-o8q7/view?usp=sharing',
+    'I am a Software Engineer with an interest and adequate skills in the domain of Web Development and Machine learning. I love working with new technologies and take on challenging projects.',
+  resume: 'https://drive.google.com/file/d/1rXrmeZAdIBAOG9m72svD7Pha41X6QMaQ/view?usp=sharing',
 };
 
 // PROJECTS DATA
