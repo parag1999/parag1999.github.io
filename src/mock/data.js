@@ -19,7 +19,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'I am a Software Engineer with an interest and adequate skills in the domain of Web Development and Machine learning. I love working with new technologies and take on challenging projects.',
-  resume: 'https://drive.google.com/file/d/1rXrmeZAdIBAOG9m72svD7Pha41X6QMaQ/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1Pu3YRFlcGvn8BSn7juyTgTyKojm4f7LT/view?usp=sharing',
 };
 
 // PROJECTS DATA
