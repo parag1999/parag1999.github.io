@@ -113,7 +113,7 @@ export const experienceData = [
     start: 'July 2021',
     end: 'Present',
     role: 'Software Engineer',
-    info2: 'SpringBoot, React, Angular, Unix Scripting,
+    info2: 'SpringBoot, React, Angular, Unix Scripting',
   },
   {
     id: uuidv1(),
