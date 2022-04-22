@@ -144,10 +144,11 @@ export const experienceData = [
     info: [
       'Unicode is a purely technical organisation of D.J.Sanghvi College of Engineering',
       'Member of the Core Committee',
-      'Currently mentoring a project on placement portal for college',
+      'Mentored a team of 4 to build the 1stvversion of CARTE a SaaS startup',
+      'Mentored a team of 8 juniors to build the placement portal for college',
     ],
     start: 'August 2019',
-    end: 'Present',
+    end: 'May 2021',
     role: 'Full Stack Mentor',
     info2: '',
   },
